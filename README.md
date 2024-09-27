@@ -11,5 +11,4 @@ Landing page of the bankist transaction app. Built using HTML, CSS and Javascrip
 7. Lazy loading images
 8. Slider component (carousel)
 
-## Sample flow
-![](https://github.com/Sushant-Mittal/bankist-app-landing-page/blob/main/Recording%202024-09-27%20152746.gif)
+Visit the site ![here](https://sushant-mittal.github.io/bankist-app-landing-page/)
